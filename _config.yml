@@ -1,9 +1,9 @@
 # Site settings
 course_name: Deep Learning
-course_description: "Deep Learning 2025"
-course_semester: "2025 Spring"
+course_description: "Deep Learning 2026"
+course_semester: "2026 Spring"
 
-baseurl: "/DeepLearning2025" # the subpath of your site, e.g. /blog/
+baseurl: "/DeepLearning2026" # the subpath of your site, e.g. /blog/
 url: "http://openpsi-project.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Tsinghua University"

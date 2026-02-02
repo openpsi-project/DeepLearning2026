@@ -1,1 +1,1 @@
-Welcome to DeepLearning 2025!
+Welcome to DeepLearning 2026!
