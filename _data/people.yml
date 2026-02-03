@@ -2,23 +2,10 @@ instructors:
   - name: Yi Wu
     profile_pic: /_images/pp/yiwu.jpg
     webpage: https://jxwuyi.weebly.com/
-  # - name: Minerva McGonagall
-  #   profile_pic: /_images/pp/mcgonagall.jpg
 
 teaching_assistants:
-  - name: Feng Gao
-    profile_pic: /_images/pp/fenggao.jpg
-    webpage: feng.gao220@gmail.com
+  - name: Zijian Zhang
+    profile_pic: /_images/pp/zijianzhang.jpg
 
-  - name: Jinglun Zhao
-    profile_pic: /_images/pp/jinglunzhao.jpg
-    webpage: u3514271@gmail.com
-
-  - name: Yutao Ouyang
-    profile_pic: /_images/pp/yutaoouyang.png
-    webpage: oyyt24@mails.tsinghua.edu.cn
-
-
-  - name: Jingzhi Cui
-    profile_pic: /_images/pp/jingzhicui.jpg
-    webpage: cjz24@mails.tsinghua.edu.cn
+  - name: Lu Yang
+    profile_pic: /_images/pp/luyang.jpg
