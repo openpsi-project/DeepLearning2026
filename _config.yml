@@ -7,7 +7,7 @@ baseurl: "/DeepLearning2026" # the subpath of your site, e.g. /blog/
 url: "http://openpsi-project.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Tsinghua University"
-schoolurl: "https://www.tsinghua.edu.cn/"
+schoolurl: "https://www.tsinghua.edu.cn"
 twitter_username: null 
 
 address: |
