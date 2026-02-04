@@ -1,19 +1,19 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Deep Learning
+course_description: "Deep learning is one of the core techniques in modern AI. It is also the fundamental tool for handling massive data in the \"Big Data\" era. This course aims to provide a comprehensive overview of the basic ideas, methods and techniques of deep learning. Students will be also asked to use deep learning approaches to solve real-world problems in homework and final project. The course topics include supervised learning, generative models, sequence models, unsupervised learning, meta-learning, security and explainability."
+course_semester: "Spring 2026"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+baseurl: "/DeepLearning2026" # the subpath of your site, e.g. /blog/
+url: "http://openpsi-project.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
+schoolname: "Tsinghua University"
+schoolurl: "https://www.tsinghua.edu.cn/"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Institute for Interdisciplinary Information Sciences
+    Tsinghua University
+    China
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
