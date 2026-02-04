@@ -16,6 +16,6 @@ permalink: /materials/
 * DeepMind and OpenAI resources
 * CMU & Stanford & Berkeley Courses
 * Some wonderful blogs:
-    * https://towardsdatascience.com/
-    * https://colah.github.io/
-    * https://lilianweng.github.io/lil-log/
+    * <https://towardsdatascience.com/>
+    * <https://colah.github.io/>
+    * <https://lilianweng.github.io/lil-log/>
