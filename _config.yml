@@ -8,7 +8,7 @@ url: "http://openpsi-project.github.io/" # the base hostname & protocol for your
 
 schoolname: "Tsinghua University"
 schoolurl: "https://www.tsinghua.edu.cn/"
-twitter_username: username 
+twitter_username: null 
 
 address: |
     Institute for Interdisciplinary Information Sciences
