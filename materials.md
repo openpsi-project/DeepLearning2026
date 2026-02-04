@@ -9,6 +9,7 @@ permalink: /materials/
 ## Book
 
 **Deep Learning** by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+- Online access: <https://www.deeplearningbook.org/>
 
 ## Additional Course Materials
 
