@@ -1,7 +1,7 @@
 ---
 type: raw_event
-date: 2019-01-26T08:00:00+3:30
+date: 2026-06-11T09:50:00+8:00
 name: Session
-description: 'Sample Raw Event'
+description: Poster Session
 hide_from_announcments: true
 ---
