@@ -3,7 +3,7 @@ type: assignment
 date: 2026-02-14T09:45:00+8:00
 title: 'Assignment #0'
 pdf: /static_files/assignments/assignment_0.pdf
-attachment: /static_files/assignments/template.zip
+attachment: /static_files/assignments/submission_template.zip
 solutions: null
 due_event: 
     type: due
