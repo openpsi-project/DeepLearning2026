@@ -21,6 +21,7 @@ address: |
 ### Do not change the followings unless you know what you are doing ###
 
 # Build settings
+timezone: Asia/Shanghai
 markdown: kramdown
 
 # Other options
