@@ -54,11 +54,11 @@ defaults:
 
 # Front matter reference (confirmed from all files under `_layouts/*.html` and `_includes/*.html`)
 # Root pages (`/*.md`): layout/title/permalink (page headers & nav), date (optional, for announcements sorting)
-# `_lectures/*.md`: type/date/title (schedule + lectures + announcements), hide_from_announcments (optional),
+# `_lectures/*.md`: type/date/title (schedule + lectures + announcements), hide_from_announcments (optional, key name keeps template typo),
 #                   tldr/thumbnail/links (optional, lectures list and lecture_links include)
 # `_assignments/*.md`: type/date/title/pdf (assignment pages + schedule + announcements),
 #                      due_event.type/due_event.date/due_event.description,
 #                      attachment/solutions (optional download links)
 # `_events/*.md`: type/date/description (schedule + announcements), name (for raw_event rows),
-#                 hide_time/hide_from_announcments (optional)
+#                 hide_time/hide_from_announcments (optional, key name keeps template typo)
 # `_announcements/*.md`: date (sorting); markdown body is shown as announcement content
