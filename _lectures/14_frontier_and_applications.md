@@ -1,7 +1,7 @@
 ---
 type: lecture
-title: "Lecture 14: Frontier and Applications (Guest Lecture)"
-date: 2026-06-08
+title: "Lecture 14: Advanced Topics: Safety"
+date: 2026-06-01
 tldr: null
 thumbnail: /static_files/lectures/cover.jpg
 links: null

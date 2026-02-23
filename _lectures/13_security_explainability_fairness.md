@@ -1,7 +1,7 @@
 ---
 type: lecture
-title: "Lecture 13: Security, Explainability and Fairness"
-date: 2026-06-01
+title: "Lecture 13: Advanced Topics: Learning System"
+date: 2026-05-25
 tldr: null
 thumbnail: /static_files/lectures/cover.jpg
 links: null

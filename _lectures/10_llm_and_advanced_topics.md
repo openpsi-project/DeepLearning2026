@@ -1,7 +1,7 @@
 ---
 type: lecture
-title: "Lecture 10: LLM and Advanced Topics"
-date: 2026-05-11
+title: "Lecture 10: Advanced Topics: Modern LLMs"
+date: 2026-04-20
 tldr: null
 thumbnail: /static_files/lectures/cover.jpg
 links: null

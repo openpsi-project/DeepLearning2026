@@ -1,7 +1,7 @@
 ---
 type: lecture
 title: "Lecture 5: Variational Autoencoder"
-date: 2026-03-30
+date: 2026-03-12
 tldr: null
 thumbnail: /static_files/lectures/cover.jpg
 links: null
