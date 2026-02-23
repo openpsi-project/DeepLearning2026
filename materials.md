@@ -20,3 +20,8 @@ permalink: /materials/
     * <https://towardsdatascience.com/>
     * <https://colah.github.io/>
     * <https://lilianweng.github.io/lil-log/>
+
+## Other Useful Resources
+
+* Learn LaTeX in 30 minutes: <https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes>
+* The Missing Semester of Your CS Education: <https://missing.csail.mit.edu/>
